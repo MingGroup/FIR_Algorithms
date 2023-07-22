@@ -1,6 +1,6 @@
 # FIR_Algorithms
 Programme packages of smart/self-adjusted/low dissipatioin FIR filter algorithms
-
+This program is a collaboration of @StevenWhisky4159 and @Mingspace
 
 ## Algorithms
 1. Machine Learning/Convex Optimization
